@@ -43,9 +43,11 @@ The following steps were taken to attempt to increase the model performance:
 
 - [Attempt#3](https://github.com/Nidaiq/Neural_Network_Charity_Analysis/blob/c1b5c101c192b0ec253b21c35da0b7359ad32d28/Resources/Attempt%233.png) change number of neurons in layers and change the type of activation and an accuracy of 73.41% was achieved.
 
-# Recommendations
+# Summary Recommendations
 
-After making multiple attempts the model could not be optimized and the requirement of 75% accuracy could not be achieved.  It is suggested the Random Forest Classifier be used as it may be a faster model and could avoid the overfitting which might be occurring in the neural network model.
+After making multiple attempts the model could not be optimized and the requirement of 75% accuracy could not be achieved.  Three attemps were made to change the model which included increasing neurons, increasing neural layers as well as changing activation types in different layers but the result of 75% could not be attained.  Therefore, this model may not be effective inorder to predict which organizations the donations should be made to.
+
+It is suggested the Random Forest Classifier be used as it may be a faster model and could avoid the overfitting which might be occurring in the neural network model.
 
 According to towardsdatascience.com, "Random Forest is less computationally expensive and does not require a GPU to finish training. A random forest can give you a different interpretation of a decision tree but with better performance. Neural Networks will require much more data than an everyday person might have on hand to actually be effective. The neural network will simply decimate the interpretability of your features to the point where it becomes meaningless for the sake of performance."  This explination could be used for the recommendation for this analysis as well.
 
