@@ -47,7 +47,7 @@ The following steps were taken to attempt to increase the model performance:
 
 After making multiple attempts the model could not be optimized and the requirement of 75% accuracy could not be achieved.  Three attemps were made to change the model which included increasing neurons, increasing neural layers as well as changing activation types in different layers but the result of 75% could not be attained.  Therefore, this model may not be effective inorder to predict which organizations the donations should be made to.
 
-# Recommendations
+# Recommendation
 
 It is suggested the Random Forest Classifier be used as it may be a faster model and could avoid the overfitting which might be occurring in the neural network model.
 
