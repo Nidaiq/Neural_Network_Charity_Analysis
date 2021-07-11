@@ -37,11 +37,11 @@ The result of 75% accuracy was not achieved after the 3 attempts
 
 The following steps were taken to attempt to increase the model performance:
 
-- [Attempt#1](https://github.com/Nidaiq/Neural_Network_Charity_Analysis/blob/c1b5c101c192b0ec253b21c35da0b7359ad32d28/Resources/Attempt%231.png) increased number of neurons in a layer and an accuracy of 73.44% was achieved.
+- [Attempt#1](https://github.com/Nidaiq/Neural_Network_Charity_Analysis/blob/c1b5c101c192b0ec253b21c35da0b7359ad32d28/Resources/Attempt%231.png) increased number of neurons in a layer and an accuracy of 73.48% was achieved.
 
 - [Attempt#2](https://github.com/Nidaiq/Neural_Network_Charity_Analysis/blob/c1b5c101c192b0ec253b21c35da0b7359ad32d28/Resources/Attempt%232.png) increased the neural layers and an accuracy of 73.34% was achieved
 
-- [Attempt#3](https://github.com/Nidaiq/Neural_Network_Charity_Analysis/blob/c1b5c101c192b0ec253b21c35da0b7359ad32d28/Resources/Attempt%233.png) change number of neurons in layers and change the type of activation and an accuracy of 73.41% was achieved.
+- [Attempt#3](https://github.com/Nidaiq/Neural_Network_Charity_Analysis/blob/c1b5c101c192b0ec253b21c35da0b7359ad32d28/Resources/Attempt%233.png) change number of neurons in layers and change the type of activation and an accuracy of 73.00% was achieved.
 
 # Summary 
 
